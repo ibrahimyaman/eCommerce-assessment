@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Default": "data source=.\\sqlexpress; initial catalog=eCommerce; persist security info=True; Integrated Security=SSPI;"
+  }
+}
